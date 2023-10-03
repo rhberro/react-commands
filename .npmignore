@@ -1,0 +1,15 @@
+# bun.
+bun.lockb
+
+# node package manager.
+.npmignore
+
+# github.
+.github/
+.gitignore
+
+# service.
+src/
+
+# configurations.
+tsconfig.json
